@@ -78,8 +78,8 @@
 ## 📫 Connect
 
 - **Email:** [amaytiwary7125@gmail.com](mailto:amaytiwary7125@gmail.com)
-- **Twitter:** [@tiwaryamay](https://twitter.com/tiwaryamay)
-- **Instagram:** [AmayTiwary](https://instagram.com/AmayTiwary)
+- **Twitter:** [AmayTiwary](https://twitter.com/AmayTiwary)
+- **Instagram:** [tiwaryamay](https://instagram.com/tiwaryamay)
 
 ---
 
