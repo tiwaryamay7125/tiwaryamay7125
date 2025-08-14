@@ -30,11 +30,11 @@
 
 ## 🚀 Projects That Deliver Impact
 
-### 🎨 [SketchSync](https://github.com/sahaniindrajit/SketchSync)
-**Real-Time Collaborative Whiteboard App**  
-> React, TypeScript, Node.js, WebSockets, Firebase, Tailwind CSS  
-- Built for seamless remote teamwork and brainstorming
-- WebSocket-powered live sync for instant collaboration
+### 🎨 [AIvolution](https://github.com/tiwaryamay7125/AIvolution.git)
+**AI-powered content moderation tooling**  
+> Python,NLP libraries, Node.js,gemini api, Firebase, Tailwind CSS  
+- Built with framework like TensorFlow.js to enable responsive moderation suitable for chat apps, forums, and live platforms
+- Delivers flagged content with confidence scores and contextual highlighting
 
 ### 🤖 [Rezumi](https://github.com/sahaniindrajit/Rezumi)
 **AI-Powered Resume Builder**  
@@ -42,11 +42,6 @@
 - Generates tailored resumes for job descriptions using AI
 - ATS-optimized content with smart parsing and skill extraction
 
-### 📄 [PDF-Talk](https://github.com/sahaniindrajit/PDF-Talk)
-**AI-Driven PDF Q&A Tool**  
-> Next.js, TypeScript, Pinecone, Hugging Face, Node.js  
-- Instantly answers questions from uploaded PDFs
-- Fast, context-aware NLP responses for document accessibility
 
 ---
 
@@ -82,16 +77,16 @@
 
 ## 📫 Connect
 
-- **Email:** [indrajit38mig@gmail.com](mailto:indrajit38mig@gmail.com)
-- **Twitter:** [@sahani_indrajit](https://twitter.com/sahani_indrajit)
-- **Instagram:** [ins_1.9](https://instagram.com/ins_1.9)
+- **Email:** [amaytiwary7125@gmail.com](mailto:amaytiwary7125@gmail.com)
+- **Twitter:** [@tiwaryamay](https://twitter.com/tiwaryamay)
+- **Instagram:** [AmayTiwary](https://instagram.com/AmayTiwary)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahaniindrajit&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwaryamay7125&show_icons=true&locale=en&layout=compact" />
 </p>
 
 ---
