@@ -1,4 +1,4 @@
-![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
+![MasterHead](https://i.pinimg.com/originals/e3/64/54/e36454e926d24b7806e587d826715cbe.jpg)
 
 <h1 align="center">Hi 👋, I'm Amay Kumar Tiwary</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | Product Builder | Remote-Ready</h3>
