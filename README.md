@@ -37,7 +37,7 @@
 - Delivers flagged content with confidence scores and contextual highlighting
 
 ### 🤖 [Astra-ai](https://github.com/tiwaryamay7125/Astra-ai.git)
-**AI-Powered Resume Builder**  
+**AI-Powered website builder**  
 > Next.js 15, TypeScript, Tailwind, Google Gemini AI,Clerk,shadcn UI 
 - Astra is a modern, fully responsive website built with a powerful tech stack
 - This project showcases the use of Next.js for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.
