@@ -36,11 +36,11 @@
 - Built with framework like TensorFlow.js to enable responsive moderation suitable for chat apps, forums, and live platforms
 - Delivers flagged content with confidence scores and contextual highlighting
 
-### 🤖 [Rezumi](https://github.com/sahaniindrajit/Rezumi)
+### 🤖 [Astra-ai](https://github.com/tiwaryamay7125/Astra-ai.git)
 **AI-Powered Resume Builder**  
-> Next.js 15, TypeScript, Tailwind, Google Gemini AI, Drizzle ORM, PostgreSQL  
-- Generates tailored resumes for job descriptions using AI
-- ATS-optimized content with smart parsing and skill extraction
+> Next.js 15, TypeScript, Tailwind, Google Gemini AI,Clerk,shadcn UI 
+- Astra is a modern, fully responsive website built with a powerful tech stack
+- This project showcases the use of Next.js for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.
 
 
 ---
