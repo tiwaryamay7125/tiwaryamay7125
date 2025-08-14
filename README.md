@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/sahani_indrajit" target="blank"><img src="https://img.shields.io/twitter/follow/sahani_indrajit?logo=twitter&style=for-the-badge" alt="twitter"/></a>
-  <a href="mailto:indrajit38mig@gmail.com"><img src="https://img.shields.io/badge/email-indrajit38mig@gmail.com-blue?style=for-the-badge&logo=gmail" alt="email"/></a>
-  <a href="https://instagram.com/ins_1.9" target="blank"><img src="https://img.shields.io/badge/instagram-ins_1.9-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="https://twitter.com/AmayTiwary" target="blank"><img src="https://img.shields.io/twitter/follow/Amaytiwary?logo=twitter&style=for-the-badge" alt="twitter"/></a>
+  <a href="mailto:amaytiwary7125@gmail.com"><img src="https://img.shields.io/badge/email-amaytiwary7125@gmail.com-blue?style=for-the-badge&logo=gmail" alt="email"/></a>
+  <a href="https://instagram.com/tiwaryamay" target="blank"><img src="https://img.shields.io/badge/instagram-tiwaryamay-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
 ---
