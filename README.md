@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-   <a href="www.linkedin.com/in/amaykumartiwary"_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+   <a href="www.linkedin.com/in/amaykumartiwary" target="blank">
+    <img src="https://img.shields.io/badge/Linkedin-blue" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/AmayTiwary" target="blank"><img src="https://img.shields.io/twitter/follow/Amaytiwary?logo=twitter&style=for-the-badge" alt="twitter"/></a>
   <a href="mailto:amaytiwary7125@gmail.com"><img src="https://img.shields.io/badge/email-amaytiwary7125@gmail.com-blue?style=for-the-badge&logo=gmail" alt="email"/></a>
