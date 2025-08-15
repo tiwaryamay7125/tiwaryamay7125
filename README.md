@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-   
-  <a href="https://twitter.com/AmayTiwary" target="blank"><img src="https://img.shields.io/twitter/follow/Amaytiwary?logo=twitter&style=for-the-badge" alt="twitter"/></a>
+   <a href="https://twitter.com/AmayTiwary" target="blank"><img src="https://img.shields.io/twitter/follow/Amaytiwary?logo=twitter&style=for-the-badge" alt="twitter"/></a>
   <a href="mailto:amaytiwary7125@gmail.com"><img src="https://img.shields.io/badge/email-amaytiwary7125@gmail.com-blue?style=for-the-badge&logo=gmail" alt="email"/></a>
   <a href="https://instagram.com/tiwaryamay" target="blank"><img src="https://img.shields.io/badge/instagram-tiwaryamay-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
