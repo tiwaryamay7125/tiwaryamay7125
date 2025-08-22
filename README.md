@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/e3/64/54/e36454e926d24b7806e587d826715cbe.jpg)
+![MasterHead](https://camo.githubusercontent.com/85add4a9633786947f86fe4e86eb5aca6b190ff47345434755a0d98f488fefa7/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)
 
 <h1 align="center">Hi 👋, I'm Amay Kumar Tiwary</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | Product Builder | Remote-Ready</h3>
