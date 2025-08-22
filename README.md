@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full-Stack Web Developer | Product Builder | Remote-Ready</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" alt="coding" width="390"/>
+  <img src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" alt="coding" width="390"/>
 </p>
 
 <p align="center">
