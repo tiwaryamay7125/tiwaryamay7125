@@ -42,6 +42,11 @@
 - Astra is a modern, fully responsive website built with a powerful tech stack
 - This project showcases the use of Next.js for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.
 
+### 🤖 [Nextric-hire: AI-Powered-ResumeCreator](https://github.com/tiwaryamay7125/AI-Powered-ResumeCreator.git)
+**AI-Powered Resume builder**  
+> React, TypeScript, Node.js, WebSockets, Firebase, Tailwind CSS,Google Gemini AI
+- Developed a SaaS AI tool to analyze JDs and auto-generate ATS-friendly resumes
+- Implemented job tracking, credits system, and PayPal payments.
 
 ---
 
